@@ -66,7 +66,7 @@ public class Solver2DClosestPair {
     public static void introductionPrintout(){
         System.out.println("Matthew Miglio, Kettering University");
         System.out.println("2D Closest Points Solver");
-        System.out.println("June 2022");
+        System.out.println("August 2022");
     }
 
     //method to get the two closest points from a list of points with the divide and conquer method
