@@ -12,8 +12,6 @@ public class Solver2DClosestPair {
     public static void main(String[] args) {
         introductionPrintout();
         
-        
-        
         int pointListSize =14;
         
         //make a max value for the coords
